@@ -1,12 +1,12 @@
 import React from 'react';
 
 class Nav extends React.Component {
-  render () {
+  render() {
     return (
       <div>
         Nav Component
       </div>
-      );
+    );
   }
 }
 
